@@ -1,0 +1,11 @@
+2023-05-13 05:24:13,709 - root - INFO: Testing import_data: SUCCESS
+2023-05-13 05:24:13,709 - root - INFO: Rows: 10127	Columns: 22
+2023-05-13 05:24:16,079 - root - INFO: Testing perform_eda: SUCCESS
+2023-05-13 05:24:16,080 - root - INFO: File Churn.jpg was found
+2023-05-13 05:24:16,080 - root - INFO: File Customer_Age.jpg was found
+2023-05-13 05:24:16,081 - root - INFO: File Marital_Status.jpg was found
+2023-05-13 05:24:16,081 - root - INFO: File Total_Trans_Ct.jpg was found
+2023-05-13 05:24:16,081 - root - INFO: File Heatmap.jpg was found
+2023-05-13 05:24:16,118 - root - INFO: Testing encoder_helper(data_frame, category_lst=[]): SUCCESS
+2023-05-13 05:24:16,185 - root - INFO: Testing encoder_helper(data_frame, category_lst=cat_columns, response=None): SUCCESS
+2023-05-13 05:24:16,221 - root - ERROR: The `Churn` column is not present in the DataFrame: ERROR
